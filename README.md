@@ -1,2 +1,2 @@
 # StableDiffusion
-Repository for my stwble diffusion assets
+Repository for my Stable Diffusion assets
